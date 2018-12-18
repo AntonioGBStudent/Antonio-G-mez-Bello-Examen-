@@ -1,0 +1,4 @@
+colors( 0 16 )
+resize( 1 lanczos 5% 5% 0 1 0 )
+settings( 1 1 0 0 0 0 1 )
+output( jpeg 80 0 0 0 0 0 1 1 1 0 1 )
